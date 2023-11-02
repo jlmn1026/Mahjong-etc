@@ -1,0 +1,18 @@
+.mainContainber {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.tileContainer {
+  font-size: 50px;
+}
