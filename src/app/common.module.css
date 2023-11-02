@@ -1,0 +1,17 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+  justify-self: center;
+  width: 1024px;
+
+  color: #fff;
+  background: #666;
+  padding: 4px;
+  min-height: 100vh;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
