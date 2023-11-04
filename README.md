@@ -1,3 +1,2 @@
 
-https://jlmn1026.github.io/tmkm/
-
+mahjong etc
